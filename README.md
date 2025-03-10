@@ -48,16 +48,10 @@ The goal of this project is to:
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory and install dependencies:
  ```bash
      cd your-repo
+     pip install -r requirements.txt
 
-3. Install dependencies:
- ```bash
-    pip install -r requirements.txt
+```
 
-4. That's it,enjoy the code!
-
-## Conclusion:
-
-This project reflects my ability to work with data from start to finish, applying analytical techniques and visualization methods to derive actionable insights. It is a strong demonstration of my proficiency in data analysis and Python programming.
