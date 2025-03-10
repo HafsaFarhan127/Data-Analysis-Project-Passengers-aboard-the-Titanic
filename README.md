@@ -10,9 +10,8 @@ This project showcases my skills in data analysis, statistical modeling, and dat
 - Generating insights using visualization techniques
 
 Through Jupyter notebooks, I demonstrate my ability to handle real-world data and extract meaningful conclusions.The project is divided into two files,one for data visualization insights and the second file for applying ML models to our titanic dataset in order to predict survivors.These files are:
-- [Data-PreProcessing.ipynb] (Data_PreProcessing.ipynb)
-- [Data_Modeling.ipynb] (Data_Modeling.ipynb)
-
+- Data_PreProcessing.ipynb
+- Data_Modeling.ipynb
 ## Purpose
 
 The goal of this project is to:
